@@ -1,0 +1,12 @@
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\bin\Debug\net8.0\ProductCommon.deps.json
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\bin\Debug\net8.0\ProductCommon.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\bin\Debug\net8.0\ProductCommon.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.csproj.AssemblyReference.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.AssemblyInfoInputs.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.AssemblyInfo.cs
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\refint\ProductCommon.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ProductCommon.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductCommon\obj\Debug\net8.0\ref\ProductCommon.dll

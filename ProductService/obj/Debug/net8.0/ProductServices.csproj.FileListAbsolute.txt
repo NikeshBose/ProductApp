@@ -1,0 +1,17 @@
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductServices.deps.json
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductServices.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductServices.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductModels.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductRepository.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductModels.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\bin\Debug\net8.0\ProductRepository.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.csproj.AssemblyReference.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.AssemblyInfoInputs.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.AssemblyInfo.cs
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.csproj.CoreCompileInputs.cache
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductS.ABD7961C.Up2Date
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\refint\ProductServices.dll
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ProductServices.pdb
+C:\Users\mk321f\ESRC\ProductApp\ProductApp\ProductService\obj\Debug\net8.0\ref\ProductServices.dll
